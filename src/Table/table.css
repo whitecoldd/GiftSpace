@@ -1,0 +1,6 @@
+.row-like span {
+    width: 230px;
+}
+.row-like span:last-child {
+    width: 60px;
+}
